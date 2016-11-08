@@ -135,8 +135,8 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 9px;
   }
   .content-setting:hover {
-    background: rgba(39, 174, 96, 0.48);
-    border: 1px solid rgba(39, 174, 96, 0.48);
+    background: rgba(39, 174, 96, 0.56);
+    border: 1px solid rgba(39, 174, 96, 0.56);
     text-decoration: none;
   }
   .content-setting:hover img {
