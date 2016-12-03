@@ -9,15 +9,15 @@
 
   .content-setting {
     display: block;
-    height: 43px;
     position: inherit;
     text-align: center;
     background: rgba(255, 255, 255, 0.3) none repeat scroll 0 0;
-    border: 1px solid rgba(255, 255, 255, 0.2);
+    border: 1px solid rgb(48, 48, 47);
     transition: all 0.3s ease-out 0s;
     padding-left: 3px;
     padding-right: 3px;
     text-decoration: none;
+    border-radius: 3px;
   }
   .content-setting img {
     display: inline-block;
